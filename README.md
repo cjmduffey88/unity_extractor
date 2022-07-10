@@ -1,4 +1,5 @@
 # unity_extractor
 Simple program for extracting images from Unity 3d files 
 
-Requires UnityPy library
+Requires UnityPy
+-> pip install UnityPy
